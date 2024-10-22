@@ -11,9 +11,9 @@ Email: sarvanshraj6@gmail.com
 Instagram: sarvansh_raj
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on games testing
-- 🤔 I’m looking for help with Javascript
+- 🤔 I’m looking for help with Java
 - 💬 Ask me about Python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cycling.
